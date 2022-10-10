@@ -1,0 +1,23 @@
+{
+  "name": "p5js-shooting-star",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doooooooomiki/p5js-shooting-star.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doooooooomiki/p5js-shooting-star/issues"
+  },
+  "homepage": "https://github.com/doooooooomiki/p5js-shooting-star#readme",
+  "dependencies": {
+    "p5": "^1.4.2"
+  }
+}
