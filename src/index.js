@@ -1,5 +1,4 @@
 // https://github.com/processing/p5.js/wiki/Global-and-instance-mode
-
 import p5 from 'p5';
 
 const s = ( sketch ) => {
